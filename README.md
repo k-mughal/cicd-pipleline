@@ -8,8 +8,6 @@
 </p>
 
 
-
-
 #### Key Components and Technologies Used
 
 1. **Git (Version Control System)**:
