@@ -4,8 +4,9 @@
 - This project highlights expertise in integrating multiple tools and technologies into a cohesive system, emphasizing efficiency, reliability, and scalability in modern software development practices.
 
 <p align="center">
-  <img src="[https://github.com/k-mughal/dockerized-3-tier-app/assets/18217530/df205327-17fd-4507-9b4e-28e5b8b4c6cc](https://github.com/user-attachments/assets/259e12c7-b5e0-4738-9600-dc15a3d34d95)">
+  <img src="https://github.com/user-attachments/assets/fe828f46-502c-4172-8922-0eb53c65a5a1">
 </p>
+
 
 
 
