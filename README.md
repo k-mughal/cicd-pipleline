@@ -3,6 +3,12 @@
 - The **CI/CD Pipeline Integration Project** is a modern DevOps initiative aimed at streamlining the software development and release process by automating key stages, reducing manual intervention, and increasing the reliability and consistency of software delivery.
 - This project highlights expertise in integrating multiple tools and technologies into a cohesive system, emphasizing efficiency, reliability, and scalability in modern software development practices.
 
+<p align="center">
+  <img src="[https://github.com/k-mughal/dockerized-3-tier-app/assets/18217530/df205327-17fd-4507-9b4e-28e5b8b4c6cc](https://github.com/user-attachments/assets/259e12c7-b5e0-4738-9600-dc15a3d34d95)">
+</p>
+
+
+
 #### Key Components and Technologies Used
 
 1. **Git (Version Control System)**:
